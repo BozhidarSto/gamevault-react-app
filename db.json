@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@test.com",
+      "password": "123456"
+    }
+  ],
+  "games": [
+    {
+      "id": "1",
+      "title": "Cyberpunk 2077",
+      "genre": "RPG",
+      "platform": "PC",
+      "status": "Completed",
+      "rating": 9,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mjs.jpg",
+      "description": "An open-world RPG set in Night City."
+    },
+    {
+      "id": "2",
+      "title": "Elden Ring",
+      "genre": "Action RPG",
+      "platform": "PC",
+      "status": "Playing",
+      "rating": 10,
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg",
+      "description": "A fantasy action RPG with open-world exploration."
+    },
+    {
+      "id": "3",
+      "title": "Doom Eternal",
+      "genre": "FPS",
+      "platform": "PC",
+      "status": "Completed",
+      "rating": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Cover_Art_of_Doom_Eternal.png",
+      "description": "A fast-paced first-person shooter."
+    },
+    {
+      "title": "Terraria",
+      "genre": "SandBox",
+      "platform": "PC",
+      "status": "Completed",
+      "rating": "10",
+      "image": "https://assets1.ignimgs.com/2019/01/17/terraria---button-1547745886957.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
+      "description": "The very world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, seek out ever-greater foes to test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours!",
+      "id": "4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

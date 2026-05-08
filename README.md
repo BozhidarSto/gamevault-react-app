@@ -123,3 +123,6 @@ The `node_modules` folder should not be uploaded manually. It can be restored by
 ```bash
 npm install
 ```
+## Author
+
+Bozhidar Stoyanov

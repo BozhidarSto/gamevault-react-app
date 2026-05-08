@@ -11,6 +11,9 @@ function About() {
         The application uses React components, routing, forms, hooks,
         localStorage authentication and REST API requests through JSON Server.
       </p>
+      <p>
+  The project is focused on CRUD operations, user authentication and dynamic data rendering.
+</p>
     </section>
   );
 }
